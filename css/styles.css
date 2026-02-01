@@ -630,13 +630,14 @@ button {
 
 .modal-close-btn:hover,
 .modal-close-btn:focus {
-  background-color: var(--ocean);
+  background-color: #404bbf;
   border: none;
 }
 
 .modal-close-btn:hover .modal-close-icon,
 .modal-close-btn:focus .modal-close-icon {
   fill: #ffffff;
+    border: none;
 }
 
 .modal-title {
